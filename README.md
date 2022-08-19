@@ -9,6 +9,9 @@ My motivation for this project is to fully satisfy, if not exceed, the client's 
 N/A
 
 ## Usage
+<li>Open any browser</li>
+<li>Go to https://yannahsanjuan.github.io/Module1/
+
 When opening the application on your default browser, it should look like the following image below:
 
 ![landing page with header, navigation bar, and background image](./assets/images/landing-page.jpg)

@@ -19,11 +19,12 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* This allows the class of seo at header be a different color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*The nav bar contains the list of links*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +33,29 @@ nav {
     font-size: 20px;
 }
 
+/*This hides the bullet points */
 nav ul {
     list-style-type: none;
 }
 
+/*The listed links are displayed side-by-side rather than stacked*/
 nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
+/*All anchor text are in white*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*All paragraph have a font size of 16px*/
 p {
     font-size: 16px;
 }
+
 
 .hero {
     height: 800px;
